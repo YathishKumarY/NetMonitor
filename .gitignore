@@ -1,0 +1,6 @@
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+*.profraw
+.DS_Store
